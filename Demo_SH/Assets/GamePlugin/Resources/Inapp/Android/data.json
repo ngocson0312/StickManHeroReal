@@ -1,0 +1,90 @@
+{
+  "default": {
+    "non_consum": [
+      {
+        "id": "removeads",
+        "pkg": "stickman.craft.removeads",
+        "price": "1.99$",
+        "receiver": {
+          "removeads": 1
+        }
+      }
+    ],
+    "consum": [
+      {
+        "id": "diamond1",
+        "pkg": "stickman.craft.diamond1",
+        "price": "99.99$",
+        "receiver": {
+          "money": "diamond:30000"
+        }
+      },
+      {
+        "id": "diamond2",
+        "pkg": "stickman.craft.diamond2",
+        "price": "49.99$",
+        "receiver": {
+          "money": "diamond:12000"
+        }
+      },
+      {
+        "id": "diamond3",
+        "pkg": "stickman.craft.diamond3",
+        "price": "19.99$",
+        "receiver": {
+          "money": "diamond:4000"
+        }
+      },
+      {
+        "id": "diamond4",
+        "pkg": "stickman.craft.diamond4",
+        "price": "9.99$",
+        "receiver": {
+          "money": "diamond:1500"
+        }
+      },
+      {
+        "id": "diamond5",
+        "pkg": "stickman.craft.diamond5",
+        "price": "4.99$",
+        "receiver": {
+          "money": "diamond:500"
+        }
+      },
+      {
+        "id": "diamond6",
+        "pkg": "stickman.craft.diamond6",
+        "price": "1.99$",
+        "receiver": {
+          "money": "diamond:150"
+        }
+      },
+      {
+        "id": "starterpack",
+        "pkg": "stickman.craft.starterpack",
+        "price": "3.99$",
+        "receiver": {
+          "removeads": 1
+        }
+      },
+      {
+        "id": "starterpackoriginal",
+        "pkg": "stickman.craft.starterpackoriginal",
+        "price": "9.99$",
+        "receiver": {
+          "money": "diamond:150"
+        }
+      },
+      {
+        "id": "bestsalepack",
+        "pkg": "stickman.craft.bestsalepack",
+        "price": "3.99$"
+      },
+      {
+        "id": "bestsalepackoriginal",
+        "pkg": "stickman.craft.bestsalepackoriginal",
+        "price": "19.99$"
+      }
+    ]
+  }
+}
